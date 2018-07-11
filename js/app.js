@@ -49,11 +49,8 @@ class Player {
         //game over modal and update
         if (this.lives === 0) {
             gameOver(),
-            gameOverModal(score);
-             
-                
+            gameOverModal(score);             
         }
-
     }
     gemScore() {
         score += 20;
@@ -185,7 +182,7 @@ let life = new Life(-101, 0);  //
 
 //instantiate gems
 for ( i = 0; i < numGems; i++) {
-		allGems[ i ] = new Gem();
+	allGems[ i ] = new Gem();
 }
 
 // functions
