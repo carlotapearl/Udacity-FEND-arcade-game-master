@@ -8,15 +8,23 @@ This game was built as part of the [Udacity Front-End Web Developer Nanodegree](
 
 ## How to Play
 
-Download this game to your computer. Or you can play it in [your browser]. Load index.html in the browser.
+To play the game click [here](https://htmlpreview.github.io/?https://github.com/carlotapearl/Udacity-FEND-arcade-game-master/blob/master/index.html) to see a live version of the game.
+
+## Other options to play:
+
+1. Download or clone this repository on your machine. 
+2. Extract the .zip file
+3. Open index.html in your browser. 
+
+## Game Instructions
 
 1. Use the up/down/right/left arrows on your keyboard to move your player
 
 ![keyboard arrows](images/keyboard-keys.png)
 
-Move into empty spaces, avoiding the bugs.  If your player collides into a bug or a bug gets your player, the game is over.
+2. Move into empty spaces, avoiding the bugs.  If your player collides into a bug or a bug gets your player, you loose a life. Once you loose all 3 lives the game is over.
 
-4. Collect the gems to win more points.
+4. Every time you reach the water you collect 100 points. Every time you collect a gem you win 20 points!
 
 ### How Do You Win?
 
