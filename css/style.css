@@ -1,0 +1,39 @@
+body {
+    background: url('../images/garden.jpg') no-repeat fixed center;
+    text-align: center;
+    margin:0 auto;
+    height: 100%;
+}
+
+#score {
+    color: rgb(53, 14, 251);;
+    margin-top: 30px;
+    display: inline-block;
+	font-size: 40px;
+}
+
+#score-panel {
+    margin-left: 450px; 
+	height: 48px;
+	width: 800px;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+}
+
+#score-stack {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#lifeCount img {
+    width: 45px;
+}
+
+#lifeCount {
+	width: 50%;
+}
+
+
+
