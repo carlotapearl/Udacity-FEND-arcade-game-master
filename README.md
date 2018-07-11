@@ -8,10 +8,6 @@ This game was built as part of the [Udacity Front-End Web Developer Nanodegree](
 
 ## How to Play
 
-To play the game click [here](https://htmlpreview.github.io/?https://github.com/carlotapearl/Udacity-FEND-arcade-game-master/blob/master/index.html) to see a live version of the game.
-
-## Other options to play:
-
 1. Download or clone this repository on your machine. 
 2. Extract the .zip file
 3. Open index.html in your browser. 
